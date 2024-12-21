@@ -62,9 +62,7 @@ void up(semaphore *s) {
 }
 
 int main() {
-    printf("Name: Anurag Bhattarai \n");
-    printf("Lab NO: 2\n");
-    printf("Roll NO: 04\n");
+   
     int i;
 
     for (i = 0; i < N; i++) {
