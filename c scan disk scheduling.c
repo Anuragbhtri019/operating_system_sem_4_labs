@@ -63,6 +63,5 @@ int main() {
 	int head = 53;
 	printf("Initial position of head: %d\n", head);
 	CSCAN(arr, head);
-
    return 0;
 }
