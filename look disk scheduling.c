@@ -66,8 +66,6 @@ int main() {
 	int head = 63;
 	char direction[] = "right";  printf("Initial position of head: %d\n", head);
    LOOK(arr, head, direction);
-   printf("\nName: Anurag Bhattarai \n");
- 	printf("lab no: 2\n");
- 	printf("roll no: 04\n");
+
 	return 0;
 }
