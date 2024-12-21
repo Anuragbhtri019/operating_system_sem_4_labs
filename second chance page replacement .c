@@ -50,8 +50,6 @@ for (j = 0; j < frameCount; j++) {
     	}
 	}
 printf("\nNumber of page faults: %d\n", pageFaults);
-printf("Name: Anurag Bhattarai \n");
-	printf("Lab no: 2\n");
-	printf("Roll no: 04\n");
+
  return 0;
 }
