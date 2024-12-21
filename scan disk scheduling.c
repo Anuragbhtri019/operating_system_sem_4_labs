@@ -81,7 +81,5 @@ seek = seek + difference ;
 	averageSeekTime = seek/(float)n;
    printf("Total Seek Time= %d\n", seek);
 	printf("Average Seek Time= %f\n", averageSeekTime);
-	printf("\nName: Anurag Bhattarai \n");
- 	printf("lab no: 2\n");
- 	printf("roll no: 04\n");
+	
 }
