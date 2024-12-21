@@ -65,8 +65,6 @@ int main() {
 	}
 	printf("\n");
 	printBitmap(&fs);
- 	printf("\nName: Anurag Bhattarai \n");
- 	printf("lab no: 2\n");
- 	printf("roll no: 04\n");
+ 	
 	return 0;
 }
