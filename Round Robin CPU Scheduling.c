@@ -2,9 +2,7 @@
 #define MAX 10
 
 int main() {
-    printf("Name: Anurag Bhattarai\n");
-    printf("lab no: 2\n");
-    printf("Roll NO: 04\n");
+  
     int n, i, time = 0, remain;
     float sum = 0, wt;
     int pid[MAX], arv[MAX], bt[MAX], remaining_bt[MAX];
