@@ -21,9 +21,7 @@ void consumer() {
 	++mutex;
 }
 int main() {
-	printf("Name: Anurag Bhattarai \n");
-	printf("Lab NO: 2\n");
-	printf("Roll NO: 04\n");
+
 	int n, i;
 	printf("\n1. Press 1 for Producer\n2. Press 2 for Consumer\n3. Exit");
 	for(i = 1; i > 0; i++) {
