@@ -63,8 +63,6 @@ int main() {
 	int head = 53;
 	printf("Initial position of head: %d\n", head);
 	CSCAN(arr, head);
-printf("\nName: Anurag Bhattarai \n");
- 	printf("lab no: 2\n");
- 	printf("roll no: 04\n");
+
    return 0;
 }
