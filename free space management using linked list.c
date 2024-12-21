@@ -64,8 +64,5 @@ int main() {
 	deallocateBlock(&fs, allocated_blocks[1]);
  	printf("Free blocks after deallocation:\n");
 	printFreeBlocks(&fs);
-printf("\nName: Anurag Bhattarai \n");
- 	printf("lab no: 2\n");
- 	printf("roll no: 04\n");
 	return 0;
 }
