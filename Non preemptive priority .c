@@ -2,9 +2,7 @@
 #include <limits.h>
 #define MAX 10
 int main() {
-	printf("Name: Anurag Bhattarai \n");
-	printf("lab no: 2\n");
-	printf("Roll NO: 04\n");
+	
 	int n, i, time = 0, remain, smallest;
 	float sum = 0, avg_wt;
 	int pid[MAX], arv[MAX], bt[MAX], remaining_bt[MAX], priority[MAX];
