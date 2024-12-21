@@ -84,6 +84,5 @@ printf("\nProcess Table\n");
 	}
 	wt = sum / n;
 	printf("\nThe average waiting time is %f\n", wt);
-
 	return 0;
 }
