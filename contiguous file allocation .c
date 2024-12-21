@@ -62,7 +62,6 @@ if (disk_size <= 0) {
     	printf("Invalid disk size. Must be greater than 0.\n");
     	return 1;
 	}
-allocateFiles(file_sizes, num_files, disk_size);
-	
+allocateFiles(file_sizes, num_files, disk_size);	
 	return 0;
 }
