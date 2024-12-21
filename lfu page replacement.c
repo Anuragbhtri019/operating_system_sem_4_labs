@@ -55,9 +55,7 @@
 
     printf("Number of page faults is %d\n", count);
     printf("\n");
-    printf("Name: Anurag Bhattarai \n");
-    printf("Lab no: 2\n");
-    printf("roll no: 04\n");
+ 
 
     return 0;
     }
