@@ -1,9 +1,6 @@
  #include <stdio.h>
 int main()
 {
-printf("Name: Anurag Bhattarai \n");
-printf("Lab no: 2\n");
-printf("Roll no: 04\n");
 int n, m, i, j, k;
 	n = 4;
 	m = 3;
