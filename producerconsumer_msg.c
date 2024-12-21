@@ -36,10 +36,6 @@ int dequeue_item(message *m) {
 }
 
 int main() {
-    printf("Name: Anurag Bhattarai \n");
-    printf("Lab NO: 2\n");
-    printf("Roll NO: 04\n");
-
     message m = {.head = 0, .tail = 0};
     int choice;
     int produced_items = 0;
