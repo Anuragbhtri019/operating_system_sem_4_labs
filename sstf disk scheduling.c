@@ -46,9 +46,5 @@ int main()
 	}
 	printf("\n");
 	printf("total head movement = %d\n",mov);
-
-printf("\nName: Anurag Bhattarai \n");
- 	printf("lab no: 2\n");
- 	printf("roll no: 04\n");
  	return 0;
 }
