@@ -63,8 +63,6 @@ int main()
     	return 1;
 	}
 allocateFiles(file_sizes, num_files, fat, disk_size);
-	printf("Name: Anurag Bhattarai \n");
-	printf("lab no: 2\n");
-	printf("roll no: 04\n");
+	
 	return 0;
 }
