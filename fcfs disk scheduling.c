@@ -27,8 +27,6 @@ int main()
 	int initial_head_position1 = 53;
 printf("First set of requests:\n");
 	FCFS(requests1, initial_head_position1);
-printf("\nName: Anurag Bhattarai \n");
- 	printf("lab no: 2\n");
- 	printf("roll no: 04\n");
+
 	return 0;
 }
