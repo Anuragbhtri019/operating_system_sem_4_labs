@@ -73,7 +73,6 @@ int main() {
         printf("%d---P%d---", gantt_time[i], gantt_pid[i]);
     }
     printf("%d\n", time);
-
     printf("\nProcess Table\n");
     printf("ID\tAT\tBT\tCT\tTAT\tWT\n");
     sum = 0;
