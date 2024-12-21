@@ -79,8 +79,6 @@ int main() {
 	}
 detectDeadlock();
    printf("\n\n");
-	printf("Name: Anurag Bhattarai \n");
-	printf("Lab No: 2\n\n");
-	printf("Roll NO: 04");
+	
     	return 0;
 }
