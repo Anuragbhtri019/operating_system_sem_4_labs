@@ -1,8 +1,6 @@
   #include <stdio.h>
    int main() {
-	printf("Name: Anurag Bhattarai \n");
-	printf("lab no: 2\n");
-	printf("Roll NO: 04\n");
+	
 	int n, i, j, temp;
 	float sum=0,wt;
 	int pid[10], arv[10], bt[10];
