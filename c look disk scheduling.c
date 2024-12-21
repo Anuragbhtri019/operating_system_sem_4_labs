@@ -60,6 +60,5 @@ int main() {
 	int head = 43;
 printf("Initial position of head: %d\n", head);
 	CLOOK(arr, head);
- 	
 	return 0;
 }
