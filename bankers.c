@@ -55,7 +55,6 @@ int max[4][3] = { { 3, 2, 2 },
      	printf("The following system is not safe");
     	break;
    	}
-
   	if(flag==1)
 	{
   	printf("Following is the SAFE Sequence\n");
