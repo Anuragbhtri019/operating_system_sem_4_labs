@@ -82,8 +82,5 @@ int main() {
 	createFile(&fs, 10, &file_index);
 	createFile(&fs, 15, &file_index);
 	printFileSystem(&fs);
-  printf("Name: Anurag Bhattarai \n");
-	printf("lab no: 2\n");
-	printf("roll no: 04\n");
 	return 0;
 }
