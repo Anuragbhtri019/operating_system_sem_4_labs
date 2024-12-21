@@ -79,6 +79,5 @@ int main() {
 	}
 detectDeadlock();
    printf("\n\n");
-	
     	return 0;
 }
